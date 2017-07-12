@@ -1,2 +1,4 @@
+name: Benjamin Kha\'s Homepage
+markdown: kramdown
 gems:
   - jekyll-sitemap
